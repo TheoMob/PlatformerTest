@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/New Main Menu.unity
+    guid: 84e8899ac51d38840a8f19a044e38146
+  - enabled: 1
+    path: Assets/Scenes/test scenes/Cena Sandox.unity
+    guid: cf5d3554bf4e23b43972ef297a62ee33
+  - enabled: 1
+    path: Assets/Scenes/test scenes/Cena de planar.unity
+    guid: 2fd446dd0ad9fcb4aad63f63a3280143
+  - enabled: 1
+    path: Assets/Scenes/test scenes/Light Test Scene.unity
+    guid: 0f14fef39bd870f45b3bd35736276881
+  - enabled: 1
+    path: Assets/Scenes/test scenes/Barrel Scene.unity
+    guid: ee15f287a21c1eb44b2b6429ff434be7
+  - enabled: 1
+    path: Assets/Scenes/test scenes/Joint test Scene 1.unity
+    guid: 699fa400f7a512341aaefc762cb1689e
+  - enabled: 1
+    path: Assets/Scenes/test scenes/Moving platforms test.unity
+    guid: 54127a11073c78e47892cab3e65e4475
+  m_configObjects: {}
